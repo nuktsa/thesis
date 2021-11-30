@@ -1,0 +1,9 @@
+0,1,2,3
+True Positive,   False Positive,   True Negative,   False Negative
+284,7,463,4
+,,,
+TP Fraction,FP Fraction,TN Fraction,FN Fraction
+0.9861111111111112,0.014893617021276562,0.9851063829787234,0.01388888888888884
+,,,
+Accuracy,Precision,Recall,f1 score
+98.54881266490764,97.59450171821305,98.61111111111111,98.10017271157167
